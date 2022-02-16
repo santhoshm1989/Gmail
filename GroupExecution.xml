@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+<groups>
+<run>
+<exclude name=""></exclude>
+</run>
+</groups>
+  <test name="Test">
+    <classes>
+      <class name="com.gmailtestscripts.InboxTest"/>
+      <class name="com.gmailtestscripts.ComposedTest"/>
+      <class name="com.gmailtestscripts.LoginpageTest"/>
+      <class name="com.gmailtestscripts.AllMailTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

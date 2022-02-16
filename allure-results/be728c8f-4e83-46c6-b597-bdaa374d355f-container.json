@@ -1,0 +1,1 @@
+{"uuid":"be728c8f-4e83-46c6-b597-bdaa374d355f","name":"Default suite","children":["b0824afa-e43d-4e17-862e-8544dd2fdc5d"],"befores":[{"name":"connectDB","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1644989947127,"stop":1644989947136}],"afters":[],"links":[],"start":1644989947095,"stop":1644989974706}
